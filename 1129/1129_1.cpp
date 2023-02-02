@@ -1,5 +1,9 @@
-// author: gaoshh1
-// 基于di 最短路算法， 交错push
+// coder: gaoshh1
+// 2/2/2023
+// pass
+// 20ms 49.34%
+// 14.4mb 66.56%
+// 基于di 最短路算法,交错push
 #include <vector>
 #include <queue>
 #include <list>

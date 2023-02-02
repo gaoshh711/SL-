@@ -1,4 +1,4 @@
-# gaoshh1
+# coder
 class Solution:
     def areSentencesSimilar(self, sentence1: str, sentence2: str) -> bool:
         sentence1_a = sentence1.split(' ')
